@@ -1,0 +1,2 @@
+# parola
+ pyramidak parola firmware

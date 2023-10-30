@@ -15,7 +15,8 @@ AmbientLight light;
 MatrixDisplay display;
 Thermistors termistor;
 
-/// copyright Zdeněk Jantač, all rights reserved. This is NOT public open software.
+//Original idea of pyramidak firmware and its program was created by Zdeněk Jantač (pyramidak).
+//GITHUB: https://github.com/pyramidak/switch
 ///////////////////////////////////////////////////////////////////////////////////
 /// What is new
 /// 1.1.6 float temperature correction
